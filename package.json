@@ -1,0 +1,7 @@
+{
+  "name": "com.unity-packages.ui-cover-image",
+  "displayName": "UI Cover Image",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "description": "UI Cover Image is an canvas component that is just like the image component, but it resizes the image to cover the entire container, even if it has to cut a little bit off one of the edges."
+}

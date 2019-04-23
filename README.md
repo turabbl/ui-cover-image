@@ -6,9 +6,11 @@ UI Cover Image is an canvas component that is just like the image component, but
 
 ## Install
 
-```sh
-$ git submodule add https://github.com/unity-packages/ui-cover-image Assets/packages/ui-cover-image
 ```
+"com.unity-packages.ui-cover-image": "git+https://github.com/unity-packages/ui-cover-image"
+```
+
+[Click here to read the Unity Packages installation guide](https://github.com/unity-packages/installation)
 
 ## Usage
 
